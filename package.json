@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3"
+  }
+}
